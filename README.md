@@ -18,5 +18,6 @@ MetricValue
 👶 Age group 20–30 has the highest churn rate among all age segments
 🛡️ Two-year contract + Tech Support customers are the most loyal
 
-<img width="1632" height="870" alt="Screenshot 2026-04-09 131342" src="https://github.com/user-attachments/assets/4e244831-9124-4c54-853d-9ff918937556" />
+
 <img width="1634" height="794" alt="Screenshot 2026-04-09 131258" src="https://github.com/user-attachments/assets/6869bc2f-222c-43e7-a3d5-c9a8895507d8" />
+<img width="1632" height="870" alt="Screenshot 2026-04-09 131342" src="https://github.com/user-attachments/assets/4e244831-9124-4c54-853d-9ff918937556" />
